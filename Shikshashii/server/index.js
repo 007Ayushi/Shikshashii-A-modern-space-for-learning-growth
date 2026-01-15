@@ -26,7 +26,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:3000",
-      "https://learning-management-system-frontend-o6dl.onrender.com"
+      "https://shikshashii-a-modern-space-for-learning-szhs.onrender.com"
     ],
     credentials: true,
   })
